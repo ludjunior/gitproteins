@@ -1,0 +1,6 @@
+VirtualBox/
+-rw-r--r-- 1 ljaug 197609      14 Oct 13 21:44  .bash_history
+-rw-r--r-- 1 ljaug 197609      51 Oct 16 14:22  .gitconfig
+drwxr-xr-x 1 ljaug 197609       0 Apr  3  2021 '3D Objects'/
+drwxr-xr-x 1 ljaug 197609       0 Oct 10 15:53  AppData/
+
